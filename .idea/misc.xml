@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zefpe/AndroidStudioProjects/mybanklineandroid/app/src/main/res/drawable/background.xml" value="0.1935" />
+        <entry key="..\:/Users/zefpe/AndroidStudioProjects/mybanklineandroid/app/src/main/res/drawable/ic_money_in.xml" value="0.1" />
+        <entry key="..\:/Users/zefpe/AndroidStudioProjects/mybanklineandroid/app/src/main/res/drawable/ic_money_out.xml" value="0.1" />
+        <entry key="..\:/Users/zefpe/AndroidStudioProjects/mybanklineandroid/app/src/main/res/layout/activity_bank_statement.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/zefpe/AndroidStudioProjects/mybanklineandroid/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/zefpe/AndroidStudioProjects/mybanklineandroid/app/src/main/res/layout/bank_statement_item.xml" value="0.1390625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
